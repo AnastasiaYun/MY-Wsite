@@ -900,6 +900,9 @@
   }
 
 @media only screen and (min-width: 640px) {
+  .about-projects-text {
+    display: none;
+  }
 
   .container-left {
     padding: 40px 20px;
@@ -1263,6 +1266,7 @@
     margin-bottom: 35px;
     margin-top: 55px;
     }
+
     .about-projects-count {
     font-weight: bold;
     font-size: 65px;
@@ -1270,7 +1274,9 @@
     color: var(--txt-c-light);
     margin: 0;
     }
+
     .about-projects-text {
+    display: revert;
     font-weight: bold;
     font-size: 15px;
     line-height: 135%;
@@ -1278,6 +1284,7 @@
     text-transform: uppercase;
     width: 125px;
     }
+
     .about-title {
     width: 728px;
     font-weight: bold;
