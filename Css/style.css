@@ -17,7 +17,7 @@
     --txt-c-light: var(--c-light);
   
     /* font */
-    --font-main: 'acrom', sans-serif;
+    --font-main: 'Acrom', sans-serif;
   
     /* container width */
     --vertical-scroll: 20px;
@@ -33,7 +33,7 @@
   }
   
   @font-face {
-    font-family: "acrom";
+    font-family: "Acrom";
     src: url("../fonts/acrom/Acrom-ExtraBold.eot");
     src: local("Acrom ExtraBold"), local("Acrom-ExtraBold"),
       url("../fonts/acrom/Acrom-ExtraBold.eot?#iefix") format("embedded-opentype"),
@@ -44,7 +44,7 @@
   }
   
   @font-face {
-      font-family: 'acrom';
+      font-family: 'Acrom';
       src: url('../fonts/acrom/Acrom-Bold.eot');
       src: local('Acrom Bold'), local('Acrom-Bold'),
           url('../fonts/acrom/Acrom-Bold.eot?#iefix') format('embedded-opentype'),
@@ -55,7 +55,7 @@
   }
   
   @font-face {
-      font-family: 'acrom';
+      font-family: 'Acrom';
       src: url('../fonts/acrom/Acrom-Regular.eot');
       src: local('Acrom Regular'), local('Acrom-Regular'),
           url('../fonts/acrom/Acrom-Regular.eot?#iefix') format('embedded-opentype'),
@@ -69,7 +69,7 @@
     scroll-behavior: smooth;
   }
   body {
-    font-family: 'acrom';
+    font-family: 'Acrom';
   }
   /* COMMON */
   .accent_button {
