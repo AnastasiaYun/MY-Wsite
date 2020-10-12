@@ -45,7 +45,7 @@
   
   @font-face {
       font-family: 'Acrom';
-      src: url('../fonts/acrom/Acrom-Bold.eot');
+      src: url('../Fonts/Acrom/Acrom-Bold.eot');
       src: local('Acrom Bold'), local('Acrom-Bold'),
           url('../Fonts/Acrom/Acrom-Bold.eot?#iefix') format('embedded-opentype'),
           url('../Fonts/Acrom/Acrom-Bold.woff') format('woff'),
@@ -56,7 +56,7 @@
   
   @font-face {
       font-family: 'Acrom';
-      src: url('../fonts/acrom/Acrom-Regular.eot');
+      src: url('../Fonts/Acrom/Acrom-Regular.eot');
       src: local('Acrom Regular'), local('Acrom-Regular'),
           url('../Fonts/Acrom/Acrom-Regular.eot?#iefix') format('embedded-opentype'),
           url('../Fonts/Acrom/Acrom-Regular.woff') format('woff'),
