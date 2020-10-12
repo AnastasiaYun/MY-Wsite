@@ -34,7 +34,7 @@
   
   @font-face {
     font-family: 'Acrom';
-    src: url("../fonts/acrom/Acrom-ExtraBold.eot");
+    src: url("../Fonts/Acrom/Acrom-ExtraBold.eot");
     src: local("Acrom ExtraBold"), local("Acrom-ExtraBold"),
       url("../Fonts/Acrom/Acrom-ExtraBold.eot?#iefix") format("embedded-opentype"),
       url("../Fonts/Acrom/Acrom-ExtraBold.woff") format("woff"),
